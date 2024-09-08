@@ -26,6 +26,11 @@ export const HowTo = () => {
                 Create a Call
               </Typography>
               <ol>
+              <marquee>
+              <a href="https://www.instagram.com/theaniketchoudhari" target="_blank" style="text-decoration: none; color: white;">
+              Made by theaniketchoudhari ❤️ </a>
+              </marquee>
+
                 <li>Enter the name you want to be displayed during the call</li>
                 <li>Hit <Button id='createCallBtn' variant='outlined'>Create Call</Button></li>
                 <li>Allow Microphone and Camera access via your browser (they can be turn off during the call)</li>
